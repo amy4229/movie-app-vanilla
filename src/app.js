@@ -1,6 +1,6 @@
-import Componenet from './core/component.js'
+import Component from './core/component.js'
 
-export default class App extends Componenet {
+export default class App extends Component {
   constructor() {
     super({
       state: {
